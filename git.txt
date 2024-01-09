@@ -1,0 +1,3 @@
+git remote add origin https://github.com/jul1anaportela/modulo-SASS.git
+git branch -M exercicio_sass
+git push -u origin exercicio_sass
